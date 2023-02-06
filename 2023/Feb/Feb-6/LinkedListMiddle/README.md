@@ -20,5 +20,5 @@ slow moves 1, fast moves 2.
 ___Commit id 8e0805f___  
 Java solution done
 
-___Commit id___  
-Cpp Solution under workS
+___Commit id ed12537___  
+Cpp Solution works
