@@ -16,3 +16,9 @@ TLE
 ### commit id: e6d1f1b
 
 slow moves 1, fast moves 2.
+
+___Commit id 8e0805f___  
+Java solution done
+
+___Commit id___  
+Cpp Solution under workS
