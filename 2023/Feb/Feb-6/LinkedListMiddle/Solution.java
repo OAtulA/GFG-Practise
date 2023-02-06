@@ -43,7 +43,7 @@ public class Solution {
          * System.out.println("num of elements: "+count);
          */
         slow = head;
-        while(head != null && head.next != null){
+        while(fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
         }

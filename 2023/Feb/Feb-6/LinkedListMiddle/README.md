@@ -10,3 +10,9 @@ Return the data of middle index.
 ### Issue Commit id: caf1a1c
 
 TLE  
+
+## Approach 2) 2 pointer method
+
+### commit id: e6d1f1b
+
+slow moves 1, fast moves 2.
