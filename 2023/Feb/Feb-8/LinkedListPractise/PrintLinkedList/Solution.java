@@ -15,12 +15,12 @@ class Solution
     // for empty list
     void display(Node head)
     {
-        System.out.print("{");
+        //System.out.print("{");
         while(head!= null){
             System.out.print(head.data);
             head = head.next;
-            if(head != null) System.out.print(",");
+            if(head != null) System.out.print(" ");
         }
-        System.out.print("}");
+        //System.out.print("}");
     }
 }
