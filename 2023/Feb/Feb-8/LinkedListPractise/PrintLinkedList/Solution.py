@@ -7,8 +7,8 @@ class node:
 class Solution:
     def display(self,node):
         
-        while node.data != None :
+        while node != None :
             print(node.data, end=" ")
-            node = node.data
+            node = node.next
     
 
