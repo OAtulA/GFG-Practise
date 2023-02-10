@@ -20,6 +20,13 @@ public class StringFunctions {
             Original String now: Aman Nayak
             String 2 now : Ambn Nbybk
         }
+         */   
+        
+    /*  I have learnt that replace function doesn't modify the original string.  
 
- */    }
+        It just returns the replace string.
+    */  
+    
+    
+ }
 }
