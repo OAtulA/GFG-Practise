@@ -9,4 +9,5 @@ It goes like arr.clone()
 
 ## Basic properties of array
 
-We don't have any clear method to empty the array.  
+1 We don't have any clear method to empty the array.  
+2 We can't reassign an array directly in Java.
