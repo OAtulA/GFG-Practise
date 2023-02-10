@@ -14,6 +14,8 @@ public class CloneArray {
 
         System.out.println("New array copied: "+ arr2);
         System.out.println("arr ==arr2: "+ (arr == arr2));
-        
+
+                
+
     }
 }
