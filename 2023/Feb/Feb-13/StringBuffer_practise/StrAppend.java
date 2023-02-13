@@ -14,11 +14,13 @@ public class StrAppend {
         s = new StringBuffer("");
 
         // Appending the input
+        {
         System.out.println("Enter some text: ");
         String Line1 = input.readLine();
         System.out.println("s now: "+s);
-        System.out.println("Enter some more text: ");
         s.append(Line1);
+        System.out.println("Enter some more text: ");
+        
         
         String line2 =  input.readLine();
         s.append( line2);
@@ -26,6 +28,9 @@ public class StrAppend {
         System.out.println("First variable: "+ Line1);
         System.out.println();
         System.out.println("Second variable: "+ line2);
+        System.out.println();
+        System.out.println("String Buffer after addittion: "+ s.toString());
+        }
 
 
 
