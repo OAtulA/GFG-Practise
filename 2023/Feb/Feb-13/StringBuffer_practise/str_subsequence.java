@@ -18,5 +18,9 @@ public class str_subsequence {
         System.out.println();
         System.out.println("Let\'s go one more time: ");
         System.out.println(s2.subSequence(0, 6));
+
+        Object m = s2.subSequence(0, 6);
+        m  += "fins";
+        System.out.println("Lets have some fun: "+m);
     }
 }
