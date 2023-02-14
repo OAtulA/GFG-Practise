@@ -9,5 +9,10 @@ public class str_subsequence {
         System.out.println("Initially: "+s2);
 
         System.out.println("Now we have: "+ s2.subSequence(0, 6).toString());
+
+        System.out.println();
+        String msg = "Here we go again: "        ;
+        System.out.print(msg);
+        System.out.println(s2.subSequence(0, 6).toString());
     }
 }
