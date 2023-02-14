@@ -14,5 +14,9 @@ public class str_subsequence {
         String msg = "Here we go again: "        ;
         System.out.print(msg);
         System.out.println(s2.subSequence(0, 6).toString());
+
+        System.out.println();
+        System.out.println("Let\'s go one more time: ");
+        System.out.println(s2.subSequence(0, 6));
     }
 }
